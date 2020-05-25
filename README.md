@@ -1,3 +1,9 @@
+## About
+https://www.youtube.com/watch?v=7CqJlxBYj-M&t=2278s
+https://github.com/beaucarnes/mern-exercise-tracker-mongodb
+
+MERN exercise tracker with Google db
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
